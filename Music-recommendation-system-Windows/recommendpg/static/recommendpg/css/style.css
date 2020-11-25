@@ -171,6 +171,11 @@ html {
     margin-top: -15px;
     margin-left: -15px;
 }
+
+.mb-1.navbar.navbar-expand-lg.navbar-dark.unique-color-dark.lighten-1{
+  background-color = red;
+} 
+
 /*
  * Animations
  */

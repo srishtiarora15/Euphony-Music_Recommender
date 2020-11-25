@@ -2003,8 +2003,9 @@ button.bg-light:focus {
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Arial", sans-serif;
     font-weight: 300
+    color: beige;
 }
 
 h1,
